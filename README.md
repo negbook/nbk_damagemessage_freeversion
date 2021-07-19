@@ -6,5 +6,5 @@ Drawing with Drawtext(BeginTextCommandDisplayText) native
 
 
 
-If you want to paid me.It's Okay.
+If you want to paid me for a Scaleform version.It's Okay.  
 [Paid Version(15usd):](https://forum.cfx.re/t/release-damage-message-for-fivem-paid/2348386)
